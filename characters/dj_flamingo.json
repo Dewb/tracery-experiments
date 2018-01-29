@@ -66,6 +66,8 @@
     "complaintPhrase": ["I hate to say it", "I hate to #bitchVerb#", "don't wanna #bitchVerb#", "not my style 🕶 to #bitchVerb#"],
     "readinessQ": ["are you ready to have", "are you ready to #dropVerb#", "get ready for", "get ready to #dropVerb#", "prepare to #dropVerb#"],
     "giveProps": ["make some noise for", "give it up for", "show some love to"],
+    "shoutOut": ["shout out", "big ups", "thx", "props", "mad props", "respect", "all th respect"],
+    "releaseMethod": ["drops", "rolls out", "hits the web", "friendster exclusive", "download it", "releases", "available on Spotify", "at your local Record store", "look 4 th #brand# thumbdrive on a bathroom floor"],
 
     "dropVerb": ["drop", "chug", "bounce", "bump", "slap", "crush", "blast", "lick", "chew"],
     "dropAdjective": ["silly", "spicy", "silly", "salty", "tangy", "crispy", "glitchy", "bubbly"],
@@ -87,7 +89,7 @@
     "phrase7": ["#gibberish# #emojiSequence#", "new mix #emoji# http://bit.ly/#gibberish# #emojiSequence#"],
     "phrase8": ["#optionalIntro.capitalize# what up #city# #optionalEmoji##optionalEmoji# #readinessQ# #feelingSuperlative# #soundOrFoodOrEvent# #futureTime# #emoji# #exclamation#"],
     "phrase9": ["#intro# #complaintPhrase# but #otherSong# is #songJudgment# #emoji# so #dropAdjective# #emoji# give me that #soundOrFood#"],
-    "phrase10": ["#optionalIntro# shout out to #sponsor# for #sponsoring# my next mix! #emoji# drops #futureTime#! #dropVerb# it it'll be #feelingSuperlative# #emojiSequence#"],
+    "phrase10": ["#optionalIntro# #shoutOut# to #sponsor# for #sponsoring# my next #song#! #emoji# #releaseMethod# #futureTime#! #dropVerb# it it'll be #feelingSuperlative# #emojiSequence#"],
 
     "origin": [ "#phrase1#", "#phrase2#", "#phrase3#", "#phrase4#", "#phrase5#", "#phrase6#", "#phrase7#", "#phrase8#", "#phrase9#", "#phrase10#"]
 }
